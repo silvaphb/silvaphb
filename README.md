@@ -1,5 +1,8 @@
-## Hi there 👋
+## Python starter dev
+Buscando sempre aprimorar meus conhecimentos no ramo da tecnologia!
 
+- Criador do PyCepBR [(Pypi)](https://pypi.org/project/PyCepBR/)
+- Estudante de Desenvolvimento de Sistemas
 <!--
 **silvaphb/silvaphb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
