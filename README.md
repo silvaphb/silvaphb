@@ -1,10 +1,10 @@
 ## Python starter dev
 Buscando sempre aprimorar meus conhecimentos no ramo da tecnologia!
 
-- 👾 Criador do PyCepBR [(Pypi)](https://pypi.org/project/PyCepBR/)
-- 💻 Estudante de Desenvolvimento de Sistemas
+- **👾 Criador do PyCepBR [(Pypi)](https://pypi.org/project/PyCepBR/)**
+- **💻 Estudante de Desenvolvimento de Sistemas**
 
--# Do Piaui pro Mundo
+*Do Piaui pro Mundo.*
 <!--
 **silvaphb/silvaphb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
