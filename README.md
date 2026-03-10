@@ -1,8 +1,14 @@
-## Python starter dev
+## Olá, user!
 Buscando sempre aprimorar meus conhecimentos no ramo da tecnologia!
 
 - **👾 Criador do PyCepBR [(Pypi)](https://pypi.org/project/PyCepBR/)**
 - **💻 Estudante de Desenvolvimento de Sistemas**
+
+## Tecnologias
+- **Python**
+- **HTML Basico**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 *Do Piaui pro Mundo.*
 <!--
