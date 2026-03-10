@@ -4,6 +4,8 @@ Buscando sempre aprimorar meus conhecimentos no ramo da tecnologia!
 - **👾 Criador do PyCepBR [(Pypi)](https://pypi.org/project/PyCepBR/)**
 - **💻 Estudante de Desenvolvimento de Sistemas**
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvaphb)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias
 - **Python**
 - **HTML Basico**
