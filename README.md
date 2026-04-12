@@ -12,6 +12,8 @@ Olá, user! Me chamo Jefferson, tenho 16 anos e sou natural de Piaui. Estou estu
 ## 🤖 Tecnologias
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white&color=orange)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css&logoColor=white&labelColor=%230000FF&color=%230000FF)
+
 
 
 ## 📜 Historia
